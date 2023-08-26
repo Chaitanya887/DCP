@@ -1,2 +1,2 @@
 # DCP
-Coding Problems ;)
+Daily Coding Problems ;)
